@@ -165,6 +165,12 @@
     .section1__item-title{
         font-size: 12px;
     }
+    .section3__content-left{
+        margin-left: 80px;
+    }
+    .section3__content-right{
+        display: none;
+    }
     .section5__content-title{
         font-size: 30px;
     }
@@ -240,6 +246,9 @@
     }
     .section2__subtitles-subtitle{
         right: 0;
+    }
+    .section3__content-left{
+        margin-left: 10px;
     }
     .content__left-title{
         font-size: 20px;
